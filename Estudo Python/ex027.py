@@ -1,0 +1,7 @@
+nome = input('Escreva seu nome: ')
+separa = nome.split()
+ultimo = int(len(separa))
+print(ultimo)
+print('Seu nome é: {}'.format(nome))
+print('Seu primeiro nome é: {}'.format(separa[0]))
+print('Seu último nome é: {}'.format(separa[ultimo-1]))
