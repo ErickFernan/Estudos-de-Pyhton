@@ -13,8 +13,7 @@ No momento existem programas sobre:
 
 * Calculadora:
 
-      Este é um projeto simples de um calculadora interativa. O projeto foi feito utilizando a biblioteca 
-      tkinter.
+      Este é um projeto simples de um calculadora interativa. O projeto foi feito utilizando a biblioteca tkinter.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96123177/157246522-e564748f-605b-4316-a2b0-e6d575f88ab9.gif?raw=true" alt="Sublime's custom image"/>
@@ -46,6 +45,9 @@ No momento existem programas sobre:
       
 * IA tratando DB:
 
-      Este tatata
+      Este é um programa feito como trabalho final de disciplina de Inteligência Computacional(IC), 
+      para o programa foi utilizado as bibiliotecas Numpy, Panda e Sklearn.
+      
+ Para maior detalhamento sobre o trabalho acesse [TrabalhoFinalIC](https://drive.google.com/drive/u/3/folders/1poHpnLbmD8qJ0mOjzk3HmmDanjf6uFk5).
       
       
