@@ -3,7 +3,7 @@ Este diretório contém alguns programas desenvolvido durante meu estudo de pyth
 
 No momento existem programas sobre:
 
-- [x] Lógica programação Python (desde o 'Olá mundo!' até módulos e pacotes).
+- [x] Lógica programação Python (desde o 'Olá mundo!' até Módulos e Pacotes).
 - [x] Calculadora.
 - [x] CRUD com banco de dados relacional e não relacional.
 - [x] Rede neural analisando um Banco de dados.
@@ -13,7 +13,8 @@ No momento existem programas sobre:
 
 * Calculadora:
 
-      Este é um projeto simples de um calculadora interativa. O projeto foi feito utilizando a biblioteca tkinter.
+      Este é um projeto simples de um calculadora interativa. O projeto foi feito utilizando a biblioteca 
+      tkinter.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96123177/157246522-e564748f-605b-4316-a2b0-e6d575f88ab9.gif?raw=true" alt="Sublime's custom image"/>
