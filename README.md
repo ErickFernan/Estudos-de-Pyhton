@@ -51,3 +51,4 @@ No momento existem programas sobre:
  Para maior detalhamento sobre o trabalho acesse [TrabalhoFinalIC](https://drive.google.com/drive/u/3/folders/1poHpnLbmD8qJ0mOjzk3HmmDanjf6uFk5).
       
       
+* Fique a vontade para navegar e encontrar mais projetos além dos citados! 😎
