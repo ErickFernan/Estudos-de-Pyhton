@@ -46,7 +46,7 @@ No momento existem programas sobre:
 * IA tratando DB:
 
       Este é um programa feito como trabalho final de disciplina de Inteligência Computacional(IC), 
-      para o programa foi utilizado as bibiliotecas Numpy, Panda e Sklearn.
+      para o programa foram utilizadas as bibiliotecas Numpy, Panda e Sklearn.
       
  Para maior detalhamento sobre o trabalho acesse [TrabalhoFinalIC](https://drive.google.com/drive/u/3/folders/1NsbSFN_WvidSV7VEpi7K5vQP8QgQr__l).
  
