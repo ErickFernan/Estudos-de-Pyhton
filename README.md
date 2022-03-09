@@ -49,6 +49,8 @@ No momento existem programas sobre:
       para o programa foi utilizado as bibiliotecas Numpy, Panda e Sklearn.
       
  Para maior detalhamento sobre o trabalho acesse [TrabalhoFinalIC](https://drive.google.com/drive/u/3/folders/1NsbSFN_WvidSV7VEpi7K5vQP8QgQr__l).
+ 
+ Para mais programas relacionado a rede neural acesse [Inteligência Computacional](https://github.com/ErickFernan/Programas-Graduacao/tree/main/Inteligencia%20Computacional), esse é um repositório com alguns trabalhos sobre redes neurais e lógica fuzzy desenvolvidos em matlab.
       
       
 * Fique a vontade para navegar e encontrar mais projetos além dos citados! 😎
