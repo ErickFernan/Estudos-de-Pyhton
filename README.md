@@ -39,9 +39,11 @@ No momento existem programas sobre:
      </p>
  
 * CRUD:
-
-      Segue um <link> com um vídeo demonstrando o funcionamento.
-      COLOCAR SOBRE O OUTRO REPOSITORIO CRUD
+      <p align="justify"> 
+      Por questões de organização dividi os projeto em duas pastas separadas:
+      1*[CRUD](https://github.com/ErickFernan/CRUD): Este projeto possui o básico para realizar operações CRUD com o Python utilizando os principais Banco de Dados SQL e NoSQL.
+      2*[CRUD](https://github.com/ErickFernan/Projeto-Mercadinho-CRUD): Este é um projeto CRUD teste de um mercadinho relacionando Python com o MySQL e o Django.
+      </p> 
       
 * IA tratando DB:
 
